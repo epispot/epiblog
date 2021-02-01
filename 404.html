@@ -22,20 +22,8 @@ layout: default
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
   <p>In the meantime... why don't you waste your time with this:</p>
-  <iframe id='404-game' src="" width="520" height="520" scrolling="none" frameborder="0"></iframe>
+  <iframe id='404-game' src="https://html5.coconauts.net/snake/" width="520" height="520" scrolling="none" frameborder="0"></iframe>
   <br>
-  <sub>Games from <a href="https://github.com/coconauts/404-games">coconauts/404-games</a> on GitHub</sub>
+  <sub>Game from <a href="https://github.com/coconauts/404-games">coconauts/404-games</a> on GitHub</sub>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>
-    var randomBetween = function(f, to){
-      return Math.floor(Math.random() * to) + f;
-    }
-    var randomGame = function(){
-      var games = ["pacman", "space-invaders", "snake"];
-      var randomGame = randomBetween(0,games.length);
-      return games[randomGame];
-    }
-    var src = "http://html5.coconauts.net/" + randomGame();
-    $("#404-game").attr('src', src);
-  </script>
 </div>
