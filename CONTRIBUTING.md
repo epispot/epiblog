@@ -18,7 +18,7 @@ First, write an article, which must be related to:
 
 5) Don't promote any of your own software or creations. If you coded something and you want to share it, don't advertise it with an article. You can however use yours as an example. If you coded something with epispot, say, something which predicts the cases for San Francisco, you can write about _predicting cases for San Francisco_ but not for the program you wrote to do that, and use yours as an example.
 
-You can also view the Code of Conduct on GitHub [here](https://github.com/epispot/epiblog/blob/master/CODE_OF_CONDUCT.md).
+6) It must follow the [Code of Conduct](/epiblog/code_of_conduct). You can also view the Code of Conduct on GitHub [here](https://github.com/epispot/epiblog/blob/master/CODE_OF_CONDUCT.md).
 
 Next, now that you have your article, it's time to start putting it on epiblog.
 
