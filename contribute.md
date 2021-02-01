@@ -34,12 +34,12 @@ For example:
 ```
 Now, instead of just pasting your text, first add meta data to it:
 ```markdown
-    --
+    ---
     layout: post
     title:  title
     date: date ex:2021-01-31 16:05:58 -0800
     categories: post
-    --
+    ---
 ```
 With `categories` and `date` being the actual categories and date.
 
@@ -57,7 +57,7 @@ Next, make sure everything is formatted correctly.
     [link](url)
     --- That's a line break
 ```
-
+Also, it would be better if you didn't incude the title, as Jekyll automatically adds the title to the page.
 # Seeing the end result
 
 To check that your article will be shown correctly on the site, you can use jekyll to view it.
