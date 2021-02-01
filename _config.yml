@@ -1,11 +1,12 @@
 title: epiblog
 description: >-
   Welcome to epiblog! The ultimate blog on all things epidemiology, infectious diseases, and, of course, epispot.
-baseurl: "/epiblog"
+baseurl: "/epiblog/"
 url: "https://epispot.github.io" 
-github_username:  epispot
+github_username: epispot
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
