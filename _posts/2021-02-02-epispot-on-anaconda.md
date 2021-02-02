@@ -4,7 +4,6 @@ title:  Epispot on Anaconda
 date: 2021-02-02 09:34:58 -0800
 categories: post
 author: Quantalabs
-author_url: https://github.com/Quantalabs
 ---
 
 Yes, that's right. Epispot is on anaconda.
