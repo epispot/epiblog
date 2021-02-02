@@ -11,7 +11,7 @@ Yes, that's right. Epispot is on anaconda.
 --- 
 <br>
 
-Okay, first, let's go through the installation process.
+Okay, first, let's go through the installation process:
 ```
 conda config --add channels conda-forge
 conda install epispot
