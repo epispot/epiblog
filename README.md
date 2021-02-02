@@ -7,4 +7,6 @@ Read the contributing guidelines to learn how to publish articles to the epiblog
 
 # Latest from the blog!
 <!-- BLOG-POST-LIST:START -->
+- [Epispot on Anaconda](https://epispot.github.io/epiblog/post/2021/02/02/epispot-on-anaconda.html)
+- [Announcing epiblog](https://epispot.github.io/epiblog/post/2021/02/01/announcing-epiblog.html)
 <!-- BLOG-POST-LIST:END -->
