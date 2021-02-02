@@ -41,9 +41,15 @@ Now, instead of just pasting your text, first add meta data to it:
     title:  title
     date: date ex:2021-01-31 16:05:58 -0800
     categories: post
+    author: xxx
     ---
 ```
-With `categories` and `date` being the actual categories and date.
+If you want to add an author, go to the `_data/authors.yml` file in the repo and add your data:
+```
+    author:
+        name: name
+        web: web
+```
 
 Next, make sure everything is formatted correctly.
 ```
