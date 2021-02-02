@@ -42,13 +42,8 @@ Now, instead of just pasting your text, first add meta data to it:
     date: date ex:2021-01-31 16:05:58 -0800
     categories: post
     author: xxx
+    author_url: https://github.com/AUTHOR_NAME
     ---
-```
-If you want to add an author, go to the `_data/authors.yml` file in the repo and add your data:
-```
-    author:
-        name: name
-        web: web
 ```
 
 Next, make sure everything is formatted correctly.
@@ -66,6 +61,7 @@ Next, make sure everything is formatted correctly.
     --- That's a line break
 ```
 Also, it would be better if you didn't incude the title, as Jekyll automatically adds the title to the page.
+
 # Seeing the end result
 
 To check that your article will be shown correctly on the site, you can use jekyll to view it.
