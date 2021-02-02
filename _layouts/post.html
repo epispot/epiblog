@@ -1,9 +1,7 @@
-{% assign author = site.data.authors[page.author] %}
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
-<!-- Output author details if some exist. -->
-{% if author %}
-    <span>
-        <!-- Personal Info. -->
-        Written by <a href="{{ author.web }}">{{ author.name }}</a>
-    </span>
-{% endif %}
+{{ content }}
