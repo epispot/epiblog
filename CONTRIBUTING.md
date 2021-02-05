@@ -8,7 +8,7 @@ Welcome to the contributing guidelines. If you're new, follow the steps below to
 
 First, write an article, which must follow the guidelines described below:
 
-1) Be related to either epispot or epidemoiology.
+1) Be related to either epispot or epidemoiology.\
 2) Not promote other software/businesses.
 
 Now that you have your article, it's time to start putting it on the epiblog.
