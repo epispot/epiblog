@@ -7,6 +7,7 @@
     author_url: https://github.com/quantum9innovation
 ---
 ![100 Commits!](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgshaw0.files.wordpress.com%2F2013%2F12%2Fwonder-100-milestone-image-640x385.jpg&f=1&nofb=1)
+---
 <br><br>
 100 commits marks a landmark in the epispot development process. Here's how we got there.
 ---
