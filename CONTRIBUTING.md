@@ -25,7 +25,7 @@ For example:
 ```
     2021-01-31-welcome-to-epiblog.md
 ```
-Before pasting in your text add some metadaata to it:
+Before pasting in your text add some metadata to it:
 ```markdown
     ---
     layout: post
