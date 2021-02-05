@@ -10,7 +10,7 @@
 100 commits marks a landmark in the epispot development process. Here's how we got there.
 ---
 <br>
-Epispot began as a pile of code for random epidemiological models was dumped into this repo. Back in these prehistoric times, the epispot organization didn't even _exist_ !
+Epispot began as a pile of code for random epidemiological models dumped into this repo. Back in these prehistoric times, the epispot organization didn't even _exist_!
 Epispot's [initial commit](https://github.com/epispot/epispot/tree/58db355fb87bb85ae8f07b3f6b2d60d45f5aa602) added a `sir-model.py` program that implemented a very basic SIR model 
 inspired by [Henry Ferose's article on Medium](https://towardsdatascience.com/infectious-disease-modelling-part-i-understanding-sir-28d60e29fdfc?gi=b4009dd92883) that went on 
 create the `Model` class that is so crucial to epispot today. Since then, epispot has come a long way. In celebration of its 
@@ -51,6 +51,5 @@ Everything.
 ## Commit 100: The Modern Era
 
 With commit #100, epispot continues its growth, adding new features everyday (and there's a whole new [**organization**](https://www.github.com/epispot) out there!) that 
-change the way epidemiological models are compiled, combating COVID-19 with data science. As epispot begins to expand into new areas of research ( 
-[Discord Bots?](https://www.github.com/epispot/covid19-tracker), [Project Management?](https://www.github.com/epispot/Tasker) ), you can know for certain that epispot will 
+change the way epidemiological models are compiled, combating COVID-19 with data science. As epispot begins to expand into new areas of research ([Discord Bots?](https://www.github.com/epispot/covid19-tracker), [Project Management?](https://www.github.com/epispot/Tasker)), you can know for certain that epispot will 
 always continue this journey, finding innovative solutions and adding brilliant new features to advance the future of epidemiology.
