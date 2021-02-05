@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code Of Conduct
-permalink: /code-of-conduct/
+permalink: /code_of_conduct/
 ---
 
 ## Contributor Covenant Code of Conduct
