@@ -9,9 +9,8 @@
 ![100 Commits!](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgshaw0.files.wordpress.com%2F2013%2F12%2Fwonder-100-milestone-image-640x385.jpg&f=1&nofb=1)
 ---
 <br><br>
-100 commits marks a landmark in the epispot development process. Here's how we got there.
----
-<br>
+100 commits marks a landmark in the epispot development process. Here's how we got there:
+<br><br>
 Epispot began as a pile of code for random epidemiological models dumped into a Github repo. Back in these prehistoric times, the epispot organization didn't even _exist_!
 Epispot's [initial commit](https://github.com/epispot/epispot/tree/58db355fb87bb85ae8f07b3f6b2d60d45f5aa602) added a `sir-model.py` program that implemented a very basic SIR model 
 inspired by [Henry Ferose's article on Medium](https://towardsdatascience.com/infectious-disease-modelling-part-i-understanding-sir-28d60e29fdfc?gi=b4009dd92883) that went on 
