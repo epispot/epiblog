@@ -1,3 +1,9 @@
+
+## Archived
+As of 7/22/22, the epispot organization has decided that this repository lacks stable contributions and is unnecessary. In the event that a publishing platform is required, we may consider un-archiving or replacing this repository, though for now we will no longer be maintaining it.
+
+---
+
 ![epiblog logo](https://epispot.github.io/epiblog/epiblog%20logo.png)
 ![Build](https://github.com/epispot/epiblog/workflows/Build/badge.svg?branch=master&event=push)
 # epiblog
